@@ -1,4 +1,3 @@
 # test
 Testing a git push from terminal
-Made a comment
-Changing Stuff
+- Made a comment
